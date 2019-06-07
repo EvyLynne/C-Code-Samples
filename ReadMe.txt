@@ -1,4 +1,4 @@
-The charGrid class are container objects that hold properties of the text grids used by
+The charGrid class are container objects that hold properties of the text grids used by URI
 Associate Professor Jean-Yves Herve' in CSC 412.  An open file stream can be passed to the constructor which
 will unpack the file contents and set up the object.  This is written to process integer values, but
 can easily be modified for doubles or floats.
